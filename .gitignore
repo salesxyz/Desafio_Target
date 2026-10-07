@@ -1,0 +1,15 @@
+# ambiente virtual
+.venv/
+venv/
+
+# cache do python e do pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# arquivos temporários
+*.tmp
+
+# editores
+.idea/
+.vscode/
